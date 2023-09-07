@@ -1,0 +1,24 @@
+{
+  "name": "sample-testing-doubles",
+  "version": "1.0.0",
+  "description": "Criando repositório para testing doubles",
+  "main": "controller.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgrocha/sample-testing-doubles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgrocha/sample-testing-doubles/issues"
+  },
+  "homepage": "https://github.com/alexgrocha/sample-testing-doubles#readme",
+  "dependencies": {
+    "jest": "^29.6.4",
+    "sinon": "^15.2.0"
+  }
+}
